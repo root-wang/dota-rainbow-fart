@@ -1,0 +1,272 @@
+{
+      "keywords": ["for", "while"],
+      "voices": [
+        "voices/for_01.mp3",
+        "voices/for_02.mp3",
+        "voices/for_03.mp3"
+      ]
+    },
+    {
+      "keywords": ["await"],
+      "voices": [
+        "voices/await_01.mp3",
+        "voices/await_02.mp3",
+        "voices/await_03.mp3"
+      ]
+    },
+    {
+      "keywords": ["catch", "except", "err != nil", "err!=nil"],
+      "voices": [
+        "voices/catch_01.mp3",
+        "voices/catch_02.mp3",
+        "voices/catch_03.mp3"
+      ]
+    },
+    {
+      "keywords": ["include"],
+      "voices": [
+        "voices/import_01.mp3",
+        "voices/import_02.mp3",
+        "voices/自律已有成果.mp3",
+        "voices/我感到浑身都是劲.mp3",
+        "voices/不详的征兆.mp3"
+      ]
+    },
+    {
+      "keywords": ["v-html"],
+      "voices": [
+        "voices/v_html_01.mp3"
+      ]
+    },
+    {
+      "keywords": ["fuck", "shit"],
+      "voices": [
+        "voices/fuck_pm_01.mp3",
+        "voices/fuck_pm_02.mp3"
+      ]
+    },
+    {
+      "keywords": ["$time_morning"],
+      "voices": ["voices/time_morning_01.mp3"]
+    },
+    {
+      "keywords": ["$time_before_noon"],
+      "voices": [
+        "voices/time_before_noon_01.mp3",
+        "voices/time_before_noon_02.mp3",
+        "voices/time_before_noon_03.mp3",
+        "voices/time_before_noon_04.mp3"
+      ]
+    },
+    {
+      "keywords": ["$time_noon"],
+      "voices": ["voices/time_noon_01.mp3"]
+    },
+    {
+      "keywords": ["$time_evening"],
+      "voices": ["voices/time_evening_01.mp3"]
+    },
+    {
+      "keywords": ["$time_midnight"],
+      "voices": ["voices/time_midnight_01.mp3"]
+    },
+    {
+      "keywords": ["$time_each_hour"],
+      "voices": [
+        "voices/time_each_hour_01.mp3",
+        "voices/time_each_hour_02.mp3",
+        "voices/time_each_hour_03.mp3",
+        "voices/time_each_hour_04.mp3",
+        "voices/time_each_hour_05.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "select",
+        "Select",
+        "default",
+        "Default",
+        "ture",
+        "flase",
+        "itn",
+        "bool",
+        "falot",
+        "flaot",
+        "sturct",
+        "mian",
+        "Max",
+        "cin <<",
+        "cout >>",
+        "system",
+        "viod",
+        "inlcude",
+        "iosream",
+        "pubilc"
+      ],
+      "voices": [
+        "voices/34-ひ…ひざまくらぁ!……い、一分だけだからねっ.mp3",
+        "voices/39-ボケーっとしてるんじゃないわよ！！.mp3",
+        "voices/60-連絡くらいよこしなさいよ！心配したんだから….mp3",
+        "voices/24-ついでだから、あんたも誘ってあげるわ.mp3",
+        "voices/26-隣に来ないでよ、恥ずかしいじゃない.mp3",
+        "voices/40-蹴り飛ばすわよ！.mp3",
+        "voices/41-まっ…まぁ、アナタがどうしてもって言うのなら.mp3",
+        "voices/15-もう…バカ….mp3",
+        "voices/16-全力で来なさいよ？叩き潰してあげるから.mp3",
+        "voices/20-これプレゼント….mp3",
+        "voices/23-なんで気付かないのよぉ！.mp3",
+        "voices/42-仕方ないけど….mp3",
+        "voices/58-利用するに値しないわね。アンタなんか….mp3",
+        "voices/43-見せたいわけじゃないんだから！.mp3",
+        "voices/17-そばにいなさい！一生よ！いいわね！.mp3",
+        "voices/30-もうっ、知らない、バカ！！何言わせんのよ！！.mp3",
+        "voices/33-恥ずかしいけど、手、手くらい繋いであげてもいいわよ、ホラ！！.mp3",
+        "voices/60-連絡くらいよこしなさいよ！心配したんだから….mp3",
+        "voices/09-くっ…胸のことを….mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "define",
+        "list",
+        "double"
+      ],
+      "voices": [
+        "voices/不详的征兆.mp3",
+        "voices/有备无患.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "new"
+      ],
+      "voices": [
+        "voices/你诞生时我就预见到了你的死亡.mp3",
+        "voices/我搞到了一些新玩意.mp3",
+        "voices/有备无患.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "delete"
+      ],
+      "voices": [
+        "voices/结束了.mp3",
+        "voices/快把这该死的东西扔掉.mp3"
+      ]
+    },
+    {
+      "keyword": [
+        "return"
+      ],
+      "voices": [
+        "voices/快刀斩乱麻.mp3",
+        "voices/在这个世界的失败会导致.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "char",
+        "string",
+        "uisng"
+      ],
+      "voices": [
+        "voices/v_html_01.mp3",
+        "voices/await_01.mp3",
+        "voices/await_02.mp3",
+        "voices/await_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "namespace",
+        "class",
+        "date"
+      ],
+      "voices": [
+        "voices/01-アンタなんて豆腐の角に頭ぶつけて死んじゃえばいいのよ！.mp3",
+        "voices/02-いい加減、目覚まし時計で起きなさいよね！何でいつも私が起こさなきゃいけないのよ！！.mp3",
+        "voices/03-うるさい、うるさい、うるさい！.mp3",
+        "voices/04-選んだのは私でアンタじゃないんだからね.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "continue",
+        "break"
+      ],
+      "voices": [
+        "voices/07-別にあんたのためにやったわけじゃないんだから.mp3",
+        "voices/10-怪我でもされたら、私が困るじゃない.mp3",
+        "voices/12-さよならなんて言ってあげないんだから！.mp3",
+        "voices/16-全力で来なさいよ？叩き潰してあげるから.mp3",
+        "voices/29-逃げないで、話くらいちゃんと聞きなさいよね.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "endl"
+      ],
+      "voices": [
+        "voices/结束了.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "this."
+      ],
+      "voices": [
+        "voices/服从女王吧.mp3"
+      ]
+    },
+    {
+      "keyword": [
+        "public"
+      ],
+      "voices": [
+        "voices/这玩意会爆炸的.mp3"
+      ]
+    },
+    {
+      "keyword": [
+        "private"
+      ],
+      "voices": [
+        "voices/勤练带来力量.mp3",
+        "voices/我的杰作.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "like"
+      ],
+      "voices": [
+        "voices/14-好きでこんな格好してるわけじゃないんだからね…あんたの前だけよ….mp3",
+        "voices/20-これプレゼント….mp3",
+        "voices/55-あたしのこと好きでも嫌いでもないなんて言うのは.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "kiss"
+      ],
+      "voices": [
+        "voices/08-キスなんて100年早いわよ！！.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "hello"
+      ],
+      "voices": [
+        "voices/19-はい.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "no"
+      ],
+      "voices": [
+        "voices/32-NOとは言わせないわよ！.mp3"
+      ]
+    }
