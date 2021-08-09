@@ -1,5 +1,4 @@
 <h1 align="center">
-钉宫 ⭐️ rainbow-fart ⭐️ 语音包
 +++++++
 dota2 英雄人物语音
 </h1>
