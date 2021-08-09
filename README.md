@@ -3,12 +3,6 @@
 dota2 英雄人物语音
 </h1>
 
-
-<p align="center">
-  <a href="https://github.com/SaekiRaku/vscode-rainbow-fart" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/vscode--rainbow--fart-%E2%89%A5_v1.2.3-brightgreen.svg" alt="vscode-rainbow-fart" /></a>
-  <a href="https://github.com/zthxxx/kugimiya-rainbow-fart/releases" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/zthxxx/kugimiya-rainbow-fart.svg" alt="Release Version" /></a>
-  <a href="https://github.com/zthxxx/kugimiya-rainbow-fart/blob/master/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/github/license/zthxxx/kugimiya-rainbow-fart" alt="License" /></a>
-</p>
 <p align="center">
 <strong>「 哪个男孩能拒绝一个傲娇萝莉纸片人老婆在一旁鞭写鞭骂呢？   dota2才是永远的神，最爱的游戏」</strong>
 </p>
